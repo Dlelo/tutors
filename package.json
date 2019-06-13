@@ -1,0 +1,22 @@
+{
+  "name": "tutors",
+  "version": "1.0.0",
+  "description": "locate a tutor",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dlelo/tutors.git"
+  },
+  "author": "Donattah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dlelo/tutors/issues"
+  },
+  "homepage": "https://github.com/Dlelo/tutors#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
